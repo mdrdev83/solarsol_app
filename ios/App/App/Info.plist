@@ -38,6 +38,16 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Solarsol necesita acceso a la cámara para que los instaladores puedan adjuntar fotos del trabajo realizado.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Solarsol necesita acceso a tus fotos para que los instaladores puedan adjuntar imágenes del trabajo realizado.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Solarsol necesita guardar fotos del trabajo en tu galería.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Solarsol usa tu ubicación para registrar el lugar de las instalaciones.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Solarsol necesita acceso al micrófono para grabar notas de voz si es necesario.</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
