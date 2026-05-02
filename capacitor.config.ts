@@ -1,4 +1,4 @@
-﻿import type { CapacitorConfig } from '@capacitor/cli';
+import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'cl.solarsol.app',
@@ -13,9 +13,6 @@ const config: CapacitorConfig = {
       launchShowDuration: 2000,
       backgroundColor: '#12141A',
       showSpinner: false,
-    },
-    PushNotifications: {
-      presentationOptions: ['badge', 'sound', 'alert'],
     },
   },
   ios: {
